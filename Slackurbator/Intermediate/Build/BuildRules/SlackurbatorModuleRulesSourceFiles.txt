@@ -1,0 +1,3 @@
+C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Source\Slackurbator\Slackurbator.Build.cs
+C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Source\Slackurbator.Target.cs
+C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Source\SlackurbatorEditor.Target.cs

@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Slackurbator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\Slackurbator.cpp.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\SlackurbatorCharacter.cpp.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\SlackurbatorGameMode.cpp.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\SlackurbatorPlayerController.cpp.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\Slackurbator.init.gen.cpp.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\SlackurbatorCharacter.gen.cpp.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\SlackurbatorGameMode.gen.cpp.obj"
+"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\SlackurbatorPlayerController.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slackurbator\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Lucinda Petersen\Documents\GitHub\Slackurbator\Slackurbator\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Slackurbator.lib"

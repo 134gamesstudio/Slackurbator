@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Slackurbator.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4259D9CC-2D00-49FF-9218-DA95916B65EE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Slackurbator.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SlackurbatorEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9A1052DA-99D3-4EED-9AB2-62399E4F2C40}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Slackurbator">
+			<UniqueIdentifier>{CA923E4B-B6A4-4F3E-80C9-F99ECD1CE3D6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Slackurbator\Slackurbator.Build.cs">
+			<Filter>Source\Slackurbator</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Slackurbator\Slackurbator.cpp">
+			<Filter>Source\Slackurbator</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slackurbator\Slackurbator.h">
+			<Filter>Source\Slackurbator</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Slackurbator\SlackurbatorCharacter.cpp">
+			<Filter>Source\Slackurbator</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slackurbator\SlackurbatorCharacter.h">
+			<Filter>Source\Slackurbator</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Slackurbator\SlackurbatorGameMode.cpp">
+			<Filter>Source\Slackurbator</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slackurbator\SlackurbatorGameMode.h">
+			<Filter>Source\Slackurbator</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Slackurbator\SlackurbatorPlayerController.cpp">
+			<Filter>Source\Slackurbator</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slackurbator\SlackurbatorPlayerController.h">
+			<Filter>Source\Slackurbator</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
