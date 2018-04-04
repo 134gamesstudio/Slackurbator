@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Slackurbator.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{4259D9CC-2D00-49FF-9218-DA95916B65EE}</UniqueIdentifier>
+			<UniqueIdentifier>{ACFB9390-7660-4649-AA5A-F6ACAFD297A1}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Slackurbator.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{9A1052DA-99D3-4EED-9AB2-62399E4F2C40}</UniqueIdentifier>
+			<UniqueIdentifier>{6927A213-188A-4E8F-850A-F0C80C635BB7}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Slackurbator">
-			<UniqueIdentifier>{CA923E4B-B6A4-4F3E-80C9-F99ECD1CE3D6}</UniqueIdentifier>
+			<UniqueIdentifier>{69E01FB4-0975-49ED-A6B3-0F040568C63B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Slackurbator\Slackurbator.Build.cs">
 			<Filter>Source\Slackurbator</Filter>
