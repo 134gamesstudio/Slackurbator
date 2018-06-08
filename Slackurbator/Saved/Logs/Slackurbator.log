@@ -1,0 +1,830 @@
+﻿Log file open, 06/08/18 17:35:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Slackurbator
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-559960469) SRandInit(-559960469).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180770
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/Projects/Slackurbator/Slackurbator/Binaries/Win64/UE4Editor-Slackurbator-3555.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WebBrowserWidget/Binaries/Win64/UE4Editor-WebBrowserWidget.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.08-22.35.20:517][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.08-22.35.20:517][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.08-22.35.20:575][  0]LogInit: Computer: LAPTOP-VFGLGJ1T
+[2018.06.08-22.35.20:575][  0]LogInit: User: LucindaPetersen
+[2018.06.08-22.35.20:575][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.08-22.35.20:575][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.06.08-22.35.20:575][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.08-22.35.20:575][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.08-22.35.20:575][  0]LogMemory: Process Physical Memory: 273.24 MB used, 273.24 MB peak
+[2018.06.08-22.35.20:575][  0]LogMemory: Process Virtual Memory: 269.77 MB used, 269.77 MB peak
+[2018.06.08-22.35.20:575][  0]LogMemory: Physical Memory: 4380.08 MB used,  3671.70 MB free, 8051.78 MB total
+[2018.06.08-22.35.20:575][  0]LogMemory: Virtual Memory: 682.20 MB used,  3671.70 MB free, 134217728.00 MB total
+[2018.06.08-22.35.21:035][  0]LogInit: Using OS detected language (en-US).
+[2018.06.08-22.35.21:035][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.08-22.35.21:248][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.08-22.35.21:896][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.08-22.35.30:474][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.08-22.35.31:186][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.06.08-22.35.31:186][  0]LogD3D11RHI:       4065/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.08-22.35.31:193][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.06.08-22.35.31:193][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.08-22.35.31:195][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.08-22.35.31:195][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.08-22.35.31:195][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.08-22.35.31:201][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.08-22.35.31:201][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.06.08-22.35.31:201][  0]LogWindows: EnumDisplayDevices:
+[2018.06.08-22.35.31:201][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.06.08-22.35.31:201][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.08-22.35.31:202][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.08-22.35.31:202][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.08-22.35.31:202][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.06.08-22.35.31:202][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.08-22.35.31:202][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.08-22.35.31:202][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.06.08-22.35.31:864][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.08-22.35.32:209][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.08-22.35.32:210][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/Projects/Slackurbator/Slackurbator/Intermediate/Shaders/WorkingDirectory/624/).
+[2018.06.08-22.35.32:210][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lucinda Petersen/AppData/Local/Temp/UnrealShaderWorkingDir/B71C0B9F48D637B99AE630B2CC43F16E/'.
+[2018.06.08-22.35.32:210][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.08-22.35.40:689][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.08-22.35.40:753][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.08-22.35.40:814][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.08-22.35.40:874][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.08-22.35.40:958][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.08-22.35.41:020][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.08-22.35.41:082][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.08-22.35.41:148][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.08-22.35.41:203][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.08-22.35.41:262][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.08-22.35.41:319][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.08-22.35.41:385][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.08-22.35.41:446][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.08-22.35.41:512][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.08-22.35.41:631][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.08-22.35.41:631][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.08-22.35.41:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.08-22.35.41:748][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.08-22.35.41:897][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.08-22.35.41:929][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.08-22.35.41:990][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.08-22.35.42:049][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.08-22.35.42:109][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.08-22.35.42:199][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.08-22.35.42:199][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.08-22.35.42:867][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.08-22.35.46:649][  0]LogDerivedDataCache: Loaded boot cache 3.78s 79MB C:/Users/Lucinda Petersen/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.08-22.35.46:649][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lucinda Petersen/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.08-22.35.46:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/Slackurbator/Slackurbator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.08-22.35.46:649][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.08-22.35.46:649][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/Slackurbator/Slackurbator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.08-22.35.46:649][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.08-22.35.46:667][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.08-22.35.46:679][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lucinda Petersen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.08-22.35.46:689][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.08-22.35.46:689][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.08-22.35.46:725][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.08-22.35.46:725][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.08-22.35.53:459][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.08-22.35.54:195][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.08-22.35.54:247][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.08-22.35.54:247][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.08-22.35.54:247][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.08-22.35.54:247][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.08-22.35.54:247][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.08-22.35.54:426][  0]LogNetVersion: Slackurbator , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4204774122)
+[2018.06.08-22.35.56:035][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.06.08-22.35.57:635][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.064385 seconds
+[2018.06.08-22.35.57:643][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.08-22.35.57:643][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.06.08-22.35.57:643][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.08-22.35.57:716][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.08-22.36.30:247][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.08-22.36.30:295][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.08-22.36.31:990][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.08-22.36.32:767][  0]SourceControl: Source control is disabled
+[2018.06.08-22.36.34:582][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.08-22.36.34:905][  0]LogOcInput: OculusInput pre-init called
+[2018.06.08-22.36.35:297][  0]LogEngine: Initializing Engine...
+[2018.06.08-22.36.35:299][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.08-22.36.35:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.08-22.36.35:891][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.08-22.36.36:043][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.08-22.36.36:054][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.36.36:141][  0]LogInit: FAudioDevice initialized.
+[2018.06.08-22.36.36:448][  0]LogDerivedDataCache: Saved boot cache 0.31s 79MB C:/Users/Lucinda Petersen/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.08-22.36.36:466][  0]LogInit: Texture streaming: Enabled
+[2018.06.08-22.36.36:580][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.08-22.36.36:733][  0]LogInit: Transaction tracking system initialized
+[2018.06.08-22.36.37:101][  0]BlueprintLog: New page: Editor Load
+[2018.06.08-22.36.38:242][  0]LocalizationService: Localization service is disabled
+[2018.06.08-22.36.39:490][  0]LogConsoleResponse: Display: 
+[2018.06.08-22.36.40:698][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.08-22.36.40:698][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.08-22.36.40:698][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.08-22.36.41:721][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Slackurbator/Slackurbator/Content/' took 0.02s
+[2018.06.08-22.36.42:539][  0]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.36.42:539][  0]LightingResults: New page: Lighting Build
+[2018.06.08-22.36.42:586][  0]MapCheck: New page: Map Check
+[2018.06.08-22.36.42:586][  0]LightingResults: New page: Lighting Build
+[2018.06.08-22.36.43:214][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.36.43:237][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.36.43:249][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.36.43:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.491ms to complete.
+[2018.06.08-22.36.43:306][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.767
+[2018.06.08-22.36.43:542][  0]LogCollectionManager: Loaded 0 collections in 0.001977 seconds
+[2018.06.08-22.36.43:629][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Slackurbator/Slackurbator/Saved/Collections/' took 0.01s
+[2018.06.08-22.36.43:629][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Slackurbator/Slackurbator/Content/Developers/LucindaPetersen/Collections/' took 0.01s
+[2018.06.08-22.36.43:629][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Slackurbator/Slackurbator/Content/Collections/' took 0.00s
+[2018.06.08-22.36.43:629][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.08-22.36.43:638][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2367 classes and 524 folders.
+[2018.06.08-22.36.43:712][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.08-22.36.44:591][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.08-22.36.44:639][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.08-22.36.44:697][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2018.06.08-22.36.44:826][  0]LogSlate: Took 0.026443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.08-22.36.44:838][  0]LogSlate: Took 0.010403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.08-22.36.44:860][  0]LogSlate: Took 0.017120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.08-22.36.45:035][  0]LogRenderer: Reallocating scene render targets to support 816x436 Format 10 NumSamples 1 (Frame:1).
+[2018.06.08-22.36.45:219][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.08-22.36.45:219][  0]LogLoad: (Engine Initialization) Total time: 91.04 seconds
+[2018.06.08-22.36.45:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.08-22.36.45:219][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.06.08-22.36.45:580][  0]SourceControl: On branch master
+[2018.06.08-22.36.45:580][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.06.08-22.36.45:580][  0]SourceControl: Changes not staged for commit:
+[2018.06.08-22.36.45:580][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.06.08-22.36.45:580][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.06.08-22.36.45:580][  0]SourceControl: 	modified:   Slackurbator/Intermediate/CachedAssetRegistry.bin
+[2018.06.08-22.36.45:580][  0]SourceControl: 	modified:   Slackurbator/Saved/AutoScreenshot.png
+[2018.06.08-22.36.45:580][  0]SourceControl: 	modified:   Slackurbator/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.06.08-22.36.45:580][  0]SourceControl: 	modified:   Slackurbator/Saved/Config/Windows/SourceControlSettings.ini
+[2018.06.08-22.36.45:580][  0]SourceControl: 	modified:   Slackurbator/Saved/Logs/Slackurbator.log
+[2018.06.08-22.36.45:580][  0]SourceControl: Untracked files:
+[2018.06.08-22.36.45:580][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.06.08-22.36.45:580][  0]SourceControl: 	Slackurbator/Saved/Config/CrashReportClient/UE4CC-Windows-7EC7D5FC4038820D5B385FA9BBE76BF0/
+[2018.06.08-22.36.45:580][  0]SourceControl: 	Slackurbator/Saved/Config/CrashReportClient/UE4CC-Windows-9075EAFF467C69CA789B71A7568E7A74/
+[2018.06.08-22.36.45:580][  0]SourceControl: 	Slackurbator/Saved/Logs/Slackurbator-backup-2018.06.08-17.35.17.log
+[2018.06.08-22.36.45:580][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.06.08-22.36.45:580][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.08-22.36.45:810][  0]LogSlate: Took 0.014828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.08-22.36.45:903][  1]LogAssetRegistry: Asset discovery search completed in 49.8890 seconds
+[2018.06.08-22.36.45:905][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.08-22.36.45:905][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000143 seconds (updated 0 objects)
+[2018.06.08-22.36.54:028][160]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.08-22.36.55:659][160]LogSlate: Took 0.093502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.08-22.36.58:199][160]LogTexture: Display: Building textures: T_DarkWood_N (BC5, 2048X2048)
+[2018.06.08-22.36.58:200][160]LogTexture: Display: Building textures: T_DarkWood_MT (AutoDXT, 2048X2048)
+[2018.06.08-22.36.58:200][160]LogTexture: Display: Building textures: T_Parquet_N (BC5, 2048X2048)
+[2018.06.08-22.36.58:200][160]LogTexture: Display: Building textures: T_Parquet_MT (AutoDXT, 2048X2048)
+[2018.06.08-22.36.58:200][160]LogTexture: Display: Building textures: T_Chair_D (AutoDXT, 2048X2048)
+[2018.06.08-22.36.58:200][160]LogTexture: Display: Building textures: T_WallPaint_D (AutoDXT, 2048X2048)
+[2018.06.08-22.36.58:200][160]LogTexture: Display: Building textures: T_Doors_D (AutoDXT, 2048X2048)
+[2018.06.08-22.37.10:063][160]LogTexture: Display: Building textures: T_Parquet_D (AutoDXT, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_Doors_N (BC5, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_Doors_MT (AutoDXT, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_WallPaint_MT (AutoDXT, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_Table_N (BC5, 4096X4096)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_AluminiumDark_MT (AutoDXT, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_DarkWood_D (DXT1, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_WallPaint_N (BC5, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_AluminiumDark_N (BC5, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_Table_D (AutoDXT, 4096X4096)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_Table_MT (AutoDXT, 4096X4096)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_Chair_MT (AutoDXT, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogTexture: Display: Building textures: T_Chair_N (BC5, 2048X2048)
+[2018.06.08-22.37.10:064][160]LogMaterial: Missing cached shader map for material M_DarkWood, compiling. 
+[2018.06.08-22.37.10:670][160]LogStaticMesh: Building static mesh SM_Pillar...
+[2018.06.08-22.37.11:802][160]LogStaticMesh: Built static mesh [1.13s] /Game/ModularOffice/Models/SM_Pillar.SM_Pillar
+[2018.06.08-22.37.12:045][160]LogStaticMesh: Building static mesh SM_WallbDoorL...
+[2018.06.08-22.37.12:078][160]LogStaticMesh: Built static mesh [0.03s] /Game/ModularOffice/Models/SM_WallbDoorL.SM_WallbDoorL
+[2018.06.08-22.37.12:079][160]LogStaticMesh: Building static mesh SM_WallbDoor...
+[2018.06.08-22.37.12:117][160]LogStaticMesh: Built static mesh [0.04s] /Game/ModularOffice/Models/SM_WallbDoor.SM_WallbDoor
+[2018.06.08-22.37.12:182][160]LogStaticMesh: Building static mesh SM_WallbWindowbL...
+[2018.06.08-22.37.12:195][160]LogStaticMesh: Built static mesh [0.01s] /Game/ModularOffice/Models/SM_WallbWindowbL.SM_WallbWindowbL
+[2018.06.08-22.37.12:196][160]LogStaticMesh: Building static mesh SM_WallbL...
+[2018.06.08-22.37.12:203][160]LogStaticMesh: Built static mesh [0.01s] /Game/ModularOffice/Models/SM_WallbL.SM_WallbL
+[2018.06.08-22.37.12:231][160]LogStaticMesh: Building static mesh SM_WallbS...
+[2018.06.08-22.37.12:238][160]LogStaticMesh: Built static mesh [0.01s] /Game/ModularOffice/Models/SM_WallbS.SM_WallbS
+[2018.06.08-22.37.12:392][160]LogStaticMesh: Building static mesh SM_DoorGlass...
+[2018.06.08-22.37.12:407][160]LogStaticMesh: Built static mesh [0.02s] /Game/ModularOffice/Models/SM_DoorGlass.SM_DoorGlass
+[2018.06.08-22.37.12:412][160]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2018.06.08-22.37.12:519][160]LogStaticMesh: Building static mesh SM_WallbWindowM...
+[2018.06.08-22.37.12:531][160]LogStaticMesh: Built static mesh [0.01s] /Game/ModularOffice/Models/SM_WallbWindowM.SM_WallbWindowM
+[2018.06.08-22.37.12:616][160]LogStaticMesh: Building static mesh SM_WallbWindowL...
+[2018.06.08-22.37.12:643][160]LogStaticMesh: Built static mesh [0.03s] /Game/ModularOffice/Models/SM_WallbWindowL.SM_WallbWindowL
+[2018.06.08-22.37.12:690][160]LogStaticMesh: Building static mesh SM_Chair1...
+[2018.06.08-22.37.12:772][160]LogStaticMesh: Built static mesh [0.13s] /Game/ModularOffice/Models/SM_Chair1.SM_Chair1
+[2018.06.08-22.37.12:915][160]LogStaticMesh: Building static mesh SM_Floor...
+[2018.06.08-22.37.12:927][160]LogStaticMesh: Built static mesh [0.10s] /Game/ModularOffice/Models/SM_Floor.SM_Floor
+[2018.06.08-22.37.13:020][160]LogStaticMesh: Building static mesh SM_ModularTable2...
+[2018.06.08-22.37.13:031][160]LogStaticMesh: Built static mesh [0.01s] /Game/ModularOffice/Models/SM_ModularTable2.SM_ModularTable2
+[2018.06.08-22.37.13:080][160]LogStaticMesh: Building static mesh SM_ModularTable3...
+[2018.06.08-22.37.13:101][160]LogStaticMesh: Built static mesh [0.02s] /Game/ModularOffice/Models/SM_ModularTable3.SM_ModularTable3
+[2018.06.08-22.37.13:109][160]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.37.13:754][160]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.37.13:755][160]LightingResults: New page: Lighting Build
+[2018.06.08-22.37.13:793][160]LoadErrors: New page: Loading map: Floorplay5_scale.umap
+[2018.06.08-22.37.14:015][160]MapCheck: New page: Map Check
+[2018.06.08-22.37.14:015][160]LightingResults: New page: Lighting Build
+[2018.06.08-22.37.15:085][160]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.37.15:210][160]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.37.15:281][160]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.827ms to complete.
+[2018.06.08-22.37.15:285][160]LogFileHelpers: Loading map 'Floorplay5_scale' took 1.681
+[2018.06.08-22.37.23:903][517]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor62)
+[2018.06.08-22.38.22:270][122]MapCheck: New page: Map Check
+[2018.06.08-22.38.23:147][122]Cmd: MAP REBUILD ALLVISIBLE
+[2018.06.08-22.38.23:150][122]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.06.08-22.38.24:405][122]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.06.08-22.38.24:679][122]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Parquet, compiling. 
+[2018.06.08-22.38.24:688][122]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Glass, compiling. 
+[2018.06.08-22.38.25:275][122]TextureStreamingBuild: Display: Compiling optional shaders took 0.914 seconds.
+[2018.06.08-22.38.25:973][122]LogLevel: Display: Export Material TexCoord Scales took 0.698 seconds.
+[2018.06.08-22.38.26:071][122]TextureStreamingBuild: Display: Build Texture Streaming took 0.072 seconds.
+[2018.06.08-22.38.26:417][122]LightingResults: New page: Lighting Build - Jun 8, 2018, 12:38:26 PM
+[2018.06.08-22.38.28:295][122]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.08-22.38.29:260][122]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.08-22.38.30:111][122]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.08-22.38.35:641][122]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.06.08-22.38.36:057][122]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.06.08-22.38.43:059][122]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.06.08-22.38.43:060][122]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.06.08-22.38.50:995][122]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.08-22.38.50:995][122]LogSwarmInterface: [TryOpenConnection] Local Process ID is 624
+[2018.06.08-22.39.09:224][122]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.06.08-22.39.09:360][122]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.08-22.39.09:360][122]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.08-22.39.09:360][122]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.08-22.39.09:360][122]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.08-22.39.09:360][122]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.08-22.39.15:252][122]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.06.08-22.39.15:252][122]MapCheck: New page: Floorplay5_scale - Jun 8, 2018, 12:39:15 PM
+[2018.06.08-22.39.15:577][122]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.06.08-22.39.15:640][122]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 388.979ms to complete.
+[2018.06.08-22.39.15:664][122]LogEditorBuildUtils: Build time 0:52
+[2018.06.08-22.39.16:517][122]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2018.06.08-22.39.16:524][122]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2018.06.08-22.39.16:809][123]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MI_Parquet, compiling. 
+[2018.06.08-22.39.16:818][123]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MI_Parquet, compiling. 
+[2018.06.08-22.39.16:922][125]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2018.06.08-22.39.16:960][125]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Glass, compiling. 
+[2018.06.08-22.39.17:032][127]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.06.08-22.39.17:044][127]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.06.08-22.39.33:957][743]Job is a success!
+[2018.06.08-22.39.34:327][744]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.158s
+[2018.06.08-22.39.34:327][744]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.06.08-22.39.34:327][744]LogVolumetricLightmapImport:      BrickData 280x5x5 = 0.2Mb
+[2018.06.08-22.39.34:327][744]LogVolumetricLightmapImport:      Bricks at Level
+[2018.06.08-22.39.34:327][744]LogVolumetricLightmapImport:          0: 1.8% covering 100.0% of volume
+[2018.06.08-22.39.34:327][744]LogVolumetricLightmapImport:          1: 7.1% covering 6.3% of volume
+[2018.06.08-22.39.34:327][744]LogVolumetricLightmapImport:          2: 91.1% covering 1.2% of volume
+[2018.06.08-22.39.36:038][744]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.06.08-22.39.36:038][744]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.06.08-22.39.36:038][744]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.06.08-22.39.36:038][744]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.06.08-22.39.36:038][744]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.06.08-22.39.36:038][744]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.06.08-22.39.36:038][744]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.06.08-22.39.36:039][744]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.06.08-22.39.36:238][744]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2018.06.08-22.39.36:238][744]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X64)
+[2018.06.08-22.39.36:334][744]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.06.08-22.39.46:248][744]Lightmass on LAPTOP-VFGLGJ1T: 11.4 sec total, 258 ms importing, 58 ms setup, 1.04 sec photons, 7.01 sec processing, 0 ms extra exporting [270/270 mappings]. Threads: 48.9 sec total, 25.0 sec processing.
+[2018.06.08-22.39.46:328][744]LogStaticLightingSystem: Illumination: 1:20 min (1.39 sec encoding lightmaps, 293 ms encoding shadowmaps)
+[2018.06.08-22.39.46:329][744]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 8 textures
+[2018.06.08-22.39.46:329][744]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.06.08-22.39.47:145][744]DumpUnbuiltLightIteractions
+[2018.06.08-22.39.47:145][744]Lights with unbuilt interactions: 0
+[2018.06.08-22.39.47:145][744]
+[2018.06.08-22.39.47:145][744]Primitives with unbuilt interactions: 0
+[2018.06.08-22.39.47:164][745]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.08-22.39.47:165][745]MapCheck: New page: Floorplay5_scale - Jun 8, 2018, 12:39:47 PM
+[2018.06.08-22.39.47:230][745]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.732ms to complete.
+[2018.06.08-22.39.55:495][234]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.40.52:743][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.40.52:885][234]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:40:52 PM)
+[2018.06.08-22.40.52:909][234]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.40.52:955][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045862s)
+[2018.06.08-22.40.52:956][234]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.40.52:977][234]LogPlayLevel: PIE: World Init took: (0.022055s)
+[2018.06.08-22.40.53:004][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.095587s)
+[2018.06.08-22.40.53:632][234]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.40.53:642][234]LogInit: FAudioDevice initialized.
+[2018.06.08-22.40.53:880][234]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.40.54:527][234]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.40.54
+[2018.06.08-22.40.54:672][234]LogWorld: Bringing up level for play took: 0.151995
+[2018.06.08-22.40.55:556][234]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.06.08-22.41.10:007][234]LogContentBrowser: Native class hierarchy updated for 'WebBrowser' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.08-22.41.18:335][234]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale 26.356
+[2018.06.08-22.42.57:818][370]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.42.57:834][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.42.57:834][370]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:42:57 PM)
+[2018.06.08-22.42.57:835][370]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.42.57:848][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013840s)
+[2018.06.08-22.42.57:849][370]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.42.57:849][370]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2018.06.08-22.42.57:850][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.015256s)
+[2018.06.08-22.42.57:861][370]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.42.57:872][370]LogInit: FAudioDevice initialized.
+[2018.06.08-22.42.57:909][370]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.42.57:916][370]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.42.57
+[2018.06.08-22.42.57:916][370]LogWorld: Bringing up level for play took: 0.005634
+[2018.06.08-22.43.00:353][370]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale 2.373
+[2018.06.08-22.43.28:736][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.43.28:750][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.43.28:750][ 17]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:43:28 PM)
+[2018.06.08-22.43.28:750][ 17]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.43.28:764][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013410s)
+[2018.06.08-22.43.28:764][ 17]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.43.28:765][ 17]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.06.08-22.43.28:765][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.014637s)
+[2018.06.08-22.43.28:776][ 17]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.43.28:785][ 17]LogInit: FAudioDevice initialized.
+[2018.06.08-22.43.28:819][ 17]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.43.28:825][ 17]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.43.28
+[2018.06.08-22.43.28:825][ 17]LogWorld: Bringing up level for play took: 0.005681
+[2018.06.08-22.43.28:838][ 17]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale 0.859
+[2018.06.08-22.44.23:394][796]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.06.08-22.44.26:794][796]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.06.08-22.44.27:525][796]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.06.08-22.44.29:543][796]LogSlate: Took 0.044965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.08-22.44.42:157][406]LogSlate: Took 0.101980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.08-22.44.57:954][348]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.08-22.45.08:982][996]BlueprintLog: New page: Compile TopDownCharacter
+[2018.06.08-22.45.13:177][180]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.45.13:202][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.45.13:228][180]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:45:13 PM)
+[2018.06.08-22.45.13:228][180]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.45.13:241][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013560s)
+[2018.06.08-22.45.13:242][180]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.45.13:242][180]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.06.08-22.45.13:242][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.014814s)
+[2018.06.08-22.45.13:260][180]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.45.13:270][180]LogInit: FAudioDevice initialized.
+[2018.06.08-22.45.13:302][180]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.45.13:309][180]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.45.13
+[2018.06.08-22.45.13:309][180]LogWorld: Bringing up level for play took: 0.006041
+[2018.06.08-22.45.13:323][180]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale -0.656
+[2018.06.08-22.45.28:093][ 37]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.45.31:399][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Floorplay5_scale_BuiltData" FILE="D:/Projects/Slackurbator/Slackurbator/Content/Maps/Floorplay5_scale_BuiltData.uasset" SILENT=true
+[2018.06.08-22.45.31:936][ 37]LogSavePackage: Save=512.15ms
+[2018.06.08-22.45.31:936][ 37]LogSavePackage: Moving 'D:/Projects/Slackurbator/Slackurbator/Saved/Floorplay5_scale_BuiltData1D5A366144F8E51BA0FB28A8E4C2BBF4.tmp' to 'D:/Projects/Slackurbator/Slackurbator/Content/Maps/Floorplay5_scale_BuiltData.uasset'
+[2018.06.08-22.45.31:938][ 37]LogSavePackage: Display: Finished SavePackage D:/Projects/Slackurbator/Slackurbator/Content/Maps/Floorplay5_scale_BuiltData.uasset
+[2018.06.08-22.45.31:998][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownCPP/Blueprints/TopDownCharacter" FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2018.06.08-22.45.32:181][ 37]LogSavePackage: Save=174.97ms
+[2018.06.08-22.45.32:181][ 37]LogSavePackage: Moving 'D:/Projects/Slackurbator/Slackurbator/Saved/TopDownCharacter6BB086444092328D1B02B6B08885E7A7.tmp' to 'D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset'
+[2018.06.08-22.45.32:183][ 37]LogSavePackage: Display: Finished SavePackage D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset
+[2018.06.08-22.45.32:739][ 37]LogSavePackage: Save=414.54ms
+[2018.06.08-22.45.32:739][ 37]LogSavePackage: Moving 'D:/Projects/Slackurbator/Slackurbator/Saved/Floorplay5_scale554B59E44B189216F9C387B18179C19F.tmp' to 'D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap'
+[2018.06.08-22.45.32:740][ 37]LogSavePackage: Display: Finished SavePackage D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap
+[2018.06.08-22.45.32:798][ 37]LogFileHelpers: Saving map 'Floorplay5_scale' took 0.601
+[2018.06.08-22.45.32:799][ 37]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.45.32:799][ 37]LightingResults: New page: Lighting Build
+[2018.06.08-22.45.32:800][ 37]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2018.06.08-22.45.32:802][ 37]MapCheck: New page: Map Check
+[2018.06.08-22.45.32:803][ 37]LightingResults: New page: Lighting Build
+[2018.06.08-22.45.32:903][ 37]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.45.32:944][ 37]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.45.33:005][ 37]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.539ms to complete.
+[2018.06.08-22.45.33:005][ 37]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.207
+[2018.06.08-22.45.35:882][201]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.45.35:949][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.45.35:949][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.45.35:949][201]PIE: New page: PIE session: TopDownExampleMap (Jun 8, 2018, 12:45:35 PM)
+[2018.06.08-22.45.35:949][201]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.06.08-22.45.35:979][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029318s)
+[2018.06.08-22.45.35:980][201]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.45.35:980][201]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.06.08-22.45.35:980][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030580s)
+[2018.06.08-22.45.36:002][201]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.45.36:012][201]LogInit: FAudioDevice initialized.
+[2018.06.08-22.45.36:046][201]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.45.36:048][201]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.06.08-17.45.36
+[2018.06.08-22.45.36:129][201]LogWorld: Bringing up level for play took: 0.082161
+[2018.06.08-22.45.36:224][201]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.245
+[2018.06.08-22.45.36:225][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.45.38:970][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.45.39:021][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.45.52:642][ 31]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.45.52:671][ 31]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.45.52:671][ 31]LightingResults: New page: Lighting Build
+[2018.06.08-22.45.52:671][ 31]LoadErrors: New page: Loading map: Floorplay5_scale.umap
+[2018.06.08-22.45.52:672][ 31]MapCheck: New page: Map Check
+[2018.06.08-22.45.52:673][ 31]LightingResults: New page: Lighting Build
+[2018.06.08-22.45.52:777][ 31]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.45.52:818][ 31]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.45.52:878][ 31]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.434ms to complete.
+[2018.06.08-22.45.52:882][ 31]LogFileHelpers: Loading map 'Floorplay5_scale' took 0.212
+[2018.06.08-22.46.05:873][810]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.06.08-22.46.24:139][901]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.46.24:178][901]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.46.24:178][901]LightingResults: New page: Lighting Build
+[2018.06.08-22.46.24:179][901]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2018.06.08-22.46.24:181][901]MapCheck: New page: Map Check
+[2018.06.08-22.46.24:181][901]LightingResults: New page: Lighting Build
+[2018.06.08-22.46.24:272][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.46.24:311][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.46.24:372][901]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.714ms to complete.
+[2018.06.08-22.46.24:373][901]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.196
+[2018.06.08-22.46.30:560][255]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.06.08-22.46.36:602][612]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.46.36:632][612]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.46.36:632][612]LightingResults: New page: Lighting Build
+[2018.06.08-22.46.36:633][612]LoadErrors: New page: Loading map: Floorplay5_scale.umap
+[2018.06.08-22.46.36:634][612]MapCheck: New page: Map Check
+[2018.06.08-22.46.36:634][612]LightingResults: New page: Lighting Build
+[2018.06.08-22.46.36:755][612]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.46.36:796][612]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.46.36:856][612]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.33ms to complete.
+[2018.06.08-22.46.36:857][612]LogFileHelpers: Loading map 'Floorplay5_scale' took 0.226
+[2018.06.08-22.46.39:179][746]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.06.08-22.46.42:181][918]Cmd: DELETE
+[2018.06.08-22.46.42:181][918]Cmd: ACTOR DELETE
+[2018.06.08-22.46.42:478][918]LogEditorActor: Deleted Actor: PlayerStart
+[2018.06.08-22.46.42:495][918]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2018.06.08-22.47.11:734][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.47.11:752][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.47.11:752][648]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:47:11 PM)
+[2018.06.08-22.47.11:752][648]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.47.11:765][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013033s)
+[2018.06.08-22.47.11:766][648]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.47.11:766][648]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.06.08-22.47.11:767][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.014183s)
+[2018.06.08-22.47.11:784][648]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.47.11:795][648]LogInit: FAudioDevice initialized.
+[2018.06.08-22.47.11:828][648]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.47.11:835][648]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.47.11
+[2018.06.08-22.47.11:836][648]LogWorld: Bringing up level for play took: 0.005759
+[2018.06.08-22.47.11:849][648]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale -0.13
+[2018.06.08-22.47.16:900][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor106)
+[2018.06.08-22.47.17:823][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor175)
+[2018.06.08-22.47.34:049][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor156)
+[2018.06.08-22.48.29:545][255]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.48.32:190][255]LogSavePackage: Save=399.27ms
+[2018.06.08-22.48.32:190][255]LogSavePackage: Moving 'D:/Projects/Slackurbator/Slackurbator/Saved/Floorplay5_scaleF0D52EC0416847F4AF38F9A6E2E553ED.tmp' to 'D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap'
+[2018.06.08-22.48.32:192][255]LogSavePackage: Display: Finished SavePackage D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap
+[2018.06.08-22.48.32:214][255]LogFileHelpers: Saving map 'Floorplay5_scale' took 0.510
+[2018.06.08-22.48.32:214][255]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.48.32:215][255]LightingResults: New page: Lighting Build
+[2018.06.08-22.48.32:215][255]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2018.06.08-22.48.32:218][255]MapCheck: New page: Map Check
+[2018.06.08-22.48.32:218][255]LightingResults: New page: Lighting Build
+[2018.06.08-22.48.32:367][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.48.32:407][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.48.32:468][255]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.607ms to complete.
+[2018.06.08-22.48.32:468][255]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.255
+[2018.06.08-22.48.34:183][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.08-22.49.04:172][144]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.49.04:200][144]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.49.04:201][144]LightingResults: New page: Lighting Build
+[2018.06.08-22.49.04:201][144]LoadErrors: New page: Loading map: Floorplay5_scale.umap
+[2018.06.08-22.49.04:203][144]MapCheck: New page: Map Check
+[2018.06.08-22.49.04:203][144]LightingResults: New page: Lighting Build
+[2018.06.08-22.49.04:378][144]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.49.04:419][144]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.49.04:480][144]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.93ms to complete.
+[2018.06.08-22.49.04:481][144]LogFileHelpers: Loading map 'Floorplay5_scale' took 0.281
+[2018.06.08-22.49.14:109][715]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.49.14:126][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.49.14:126][715]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:49:14 PM)
+[2018.06.08-22.49.14:126][715]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.49.14:139][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013267s)
+[2018.06.08-22.49.14:140][715]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.49.14:140][715]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.06.08-22.49.14:140][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.014428s)
+[2018.06.08-22.49.14:158][715]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.49.14:168][715]LogInit: FAudioDevice initialized.
+[2018.06.08-22.49.14:197][715]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.49.14:204][715]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.49.14
+[2018.06.08-22.49.14:204][715]LogWorld: Bringing up level for play took: 0.005557
+[2018.06.08-22.49.14:219][715]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale 0.239
+[2018.06.08-22.49.21:637][142]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.06.08-22.49.21:798][143]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.06.08-22.50.49:969][333]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.50.49:993][333]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.50.49:993][333]LightingResults: New page: Lighting Build
+[2018.06.08-22.50.49:994][333]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2018.06.08-22.50.49:996][333]MapCheck: New page: Map Check
+[2018.06.08-22.50.49:996][333]LightingResults: New page: Lighting Build
+[2018.06.08-22.50.50:193][333]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.50.50:231][333]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.50.50:451][333]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 219.997ms to complete.
+[2018.06.08-22.50.50:452][333]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.460
+[2018.06.08-22.50.51:779][407]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.50.51:795][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.50.51:795][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.50.51:795][407]PIE: New page: PIE session: TopDownExampleMap (Jun 8, 2018, 12:50:51 PM)
+[2018.06.08-22.50.51:795][407]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.06.08-22.50.51:821][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026027s)
+[2018.06.08-22.50.51:822][407]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.50.51:822][407]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.06.08-22.50.51:822][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027328s)
+[2018.06.08-22.50.51:840][407]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.50.51:851][407]LogInit: FAudioDevice initialized.
+[2018.06.08-22.50.51:885][407]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.50.51:888][407]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.06.08-17.50.51
+[2018.06.08-22.50.51:888][407]LogWorld: Bringing up level for play took: 0.002060
+[2018.06.08-22.50.51:904][407]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.075
+[2018.06.08-22.50.51:905][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.51.00:421][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.51.00:461][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.51.27:654][538]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.06.08-22.52.42:543][649]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.52.42:561][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.52.42:561][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.52.42:561][649]PIE: New page: PIE session: TopDownExampleMap (Jun 8, 2018, 12:52:42 PM)
+[2018.06.08-22.52.42:561][649]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.06.08-22.52.42:731][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169727s)
+[2018.06.08-22.52.42:732][649]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.06.08-22.52.42:733][649]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2018.06.08-22.52.42:733][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.171588s)
+[2018.06.08-22.52.42:753][649]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.52.42:763][649]LogInit: FAudioDevice initialized.
+[2018.06.08-22.52.42:801][649]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.52.42:804][649]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.06.08-17.52.42
+[2018.06.08-22.52.42:805][649]LogWorld: Bringing up level for play took: 0.001817
+[2018.06.08-22.52.42:822][649]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.842
+[2018.06.08-22.52.42:822][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.53.12:426][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.53.12:465][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.06.08-22.55.34:465][677]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.08-22.56.05:148][678]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Projects/Slackurbator/Slackurbator/Source/Slackurbator/SlackurbatorPlayerController.h'
+[2018.06.08-22.56.37:044][472]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.56.37:075][472]Cmd: MAP LOAD FILE="D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.08-22.56.37:075][472]LightingResults: New page: Lighting Build
+[2018.06.08-22.56.37:076][472]LoadErrors: New page: Loading map: Floorplay5_scale.umap
+[2018.06.08-22.56.37:077][472]MapCheck: New page: Map Check
+[2018.06.08-22.56.37:077][472]LightingResults: New page: Lighting Build
+[2018.06.08-22.56.37:310][472]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.08-22.56.37:351][472]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.08-22.56.37:547][472]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 195.687ms to complete.
+[2018.06.08-22.56.37:548][472]LogFileHelpers: Loading map 'Floorplay5_scale' took 0.474
+[2018.06.08-22.56.39:903][605]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.56.39:920][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.56.39:920][605]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:56:39 PM)
+[2018.06.08-22.56.39:920][605]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.56.39:934][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013623s)
+[2018.06.08-22.56.39:934][605]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.56.39:935][605]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.06.08-22.56.39:935][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.014919s)
+[2018.06.08-22.56.39:952][605]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.56.39:962][605]LogInit: FAudioDevice initialized.
+[2018.06.08-22.56.39:996][605]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.56.40:004][605]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.56.40
+[2018.06.08-22.56.40:004][605]LogWorld: Bringing up level for play took: 0.006230
+[2018.06.08-22.56.40:018][605]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale 0.039
+[2018.06.08-22.57.53:615][870]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.08-22.57.53:636][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.08-22.57.53:636][870]PIE: New page: PIE session: Floorplay5_scale (Jun 8, 2018, 12:57:53 PM)
+[2018.06.08-22.57.53:636][870]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale
+[2018.06.08-22.57.53:650][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014157s)
+[2018.06.08-22.57.53:651][870]LogAIModule: Creating AISystem for world Floorplay5_scale
+[2018.06.08-22.57.53:651][870]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.06.08-22.57.53:651][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Floorplay5_scale.Floorplay5_scale to /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale (0.015462s)
+[2018.06.08-22.57.53:670][870]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.08-22.57.53:681][870]LogInit: FAudioDevice initialized.
+[2018.06.08-22.57.53:716][870]LogLoad: Game class is 'MySlackurbatorGameMode_BLU_C'
+[2018.06.08-22.57.53:723][870]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale.Floorplay5_scale up for play (max tick rate 60) at 2018.06.08-17.57.53
+[2018.06.08-22.57.53:723][870]LogWorld: Bringing up level for play took: 0.005743
+[2018.06.08-22.57.53:737][870]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Floorplay5_scale -0.242
+[2018.06.08-22.58.26:122][524]LogSavePackage: Save=399.20ms
+[2018.06.08-22.58.26:122][524]LogSavePackage: Moving 'D:/Projects/Slackurbator/Slackurbator/Saved/Floorplay5_scaleCD0766FB4312ACCCDEE483B37DB04169.tmp' to 'D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap'
+[2018.06.08-22.58.26:124][524]LogSavePackage: Display: Finished SavePackage D:/Projects/Slackurbator/Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap
+[2018.06.08-22.58.26:145][524]LogFileHelpers: Saving map 'Floorplay5_scale' took 0.512
+[2018.06.08-22.58.30:172][749]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.06.08-22.58.57:668][749]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.06.08-22.58.57:845][749]SourceControl: [master 1711d46] added nav mesh bounds volume to scale level
+[2018.06.08-22.58.57:845][749]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.06.08-22.58.57:845][749]SourceControl:  rewrite Slackurbator/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset (90%)
+[2018.06.08-22.58.57:845][749]SourceControl:  rewrite Slackurbator/Content/TopDownCPP/Maps/Floorplay5_scale.umap (84%)
+[2018.06.08-22.58.57:856][749]SourceControl: Commited [master 1711d46] added nav mesh bounds volume to scale level.
