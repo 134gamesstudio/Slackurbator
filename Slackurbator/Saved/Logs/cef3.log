@@ -1,2 +1,28 @@
 [0907/191136.404:ERROR:entry_impl.cc(1037)] No file for 8000003d
 [0907/191136.404:ERROR:entry_impl.cc(1037)] No file for 80000041
+[1108/182152.929:ERROR:backend_impl.cc(1021)] Critical error found -8
+[1108/182152.942:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.942:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.942:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.943:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.943:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.944:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.944:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.953:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.958:WARNING:storage_block-inl.h(131)] Failed data load.
+[1108/182152.958:ERROR:entry_impl.cc(962)] Failed to save user data
+[1110/081134.272:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1110/081134.302:ERROR:cache_util.cc(134)] Unable to move cache folder D:/Projects/Slackurbator/Slackurbator/Saved/webcache\Cache to D:/Projects/Slackurbator/Slackurbator/Saved/webcache\old_Cache_000
+[1110/081134.302:ERROR:disk_cache.cc(132)] Unable to create cache
+[1110/081406.148:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1110/081406.148:ERROR:cache_util.cc(134)] Unable to move cache folder D:/Projects/Slackurbator/Slackurbator/Saved/webcache\Cache to D:/Projects/Slackurbator/Slackurbator/Saved/webcache\old_Cache_000
+[1110/081406.148:ERROR:disk_cache.cc(132)] Unable to create cache
+[1110/081515.155:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1110/081515.155:ERROR:cache_util.cc(134)] Unable to move cache folder D:/Projects/Slackurbator/Slackurbator/Saved/webcache\Cache to D:/Projects/Slackurbator/Slackurbator/Saved/webcache\old_Cache_000
+[1110/081515.155:ERROR:disk_cache.cc(132)] Unable to create cache
+[1110/081730.235:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1110/081730.235:ERROR:cache_util.cc(134)] Unable to move cache folder D:/Projects/Slackurbator/Slackurbator/Saved/webcache\Cache to D:/Projects/Slackurbator/Slackurbator/Saved/webcache\old_Cache_000
+[1110/081730.235:ERROR:disk_cache.cc(132)] Unable to create cache
+[1110/081949.935:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1110/081949.936:ERROR:cache_util.cc(134)] Unable to move cache folder D:/Projects/Slackurbator/Slackurbator/Saved/webcache\Cache to D:/Projects/Slackurbator/Slackurbator/Saved/webcache\old_Cache_000
+[1110/081949.936:ERROR:disk_cache.cc(132)] Unable to create cache
