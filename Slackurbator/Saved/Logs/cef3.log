@@ -1,5 +1,6 @@
 [0907/191136.404:ERROR:entry_impl.cc(1037)] No file for 8000003d
 [0907/191136.404:ERROR:entry_impl.cc(1037)] No file for 80000041
+<<<<<<< HEAD
 [1207/112451.185:ERROR:backend_impl.cc(1021)] Critical error found -8
 [1207/112451.201:WARNING:storage_block-inl.h(131)] Failed data load.
 [1207/112451.201:WARNING:storage_block-inl.h(131)] Failed data load.
@@ -13,3 +14,5 @@
 [1207/112451.241:WARNING:storage_block-inl.h(131)] Failed data load.
 [1207/112451.242:WARNING:storage_block-inl.h(131)] Failed data load.
 [1207/112451.242:ERROR:entry_impl.cc(962)] Failed to save user data
+=======
+>>>>>>> parent of f00f486... Merge branch 'master' of https://github.com/134gamesstudio/Slackurbator
