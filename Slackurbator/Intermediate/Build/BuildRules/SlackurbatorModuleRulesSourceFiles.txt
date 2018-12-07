@@ -1,3 +1,0 @@
-D:\SideHustle\Git\Slackurbator\Slackurbator\Source\Slackurbator\Slackurbator.Build.cs
-D:\SideHustle\Git\Slackurbator\Slackurbator\Source\Slackurbator.Target.cs
-D:\SideHustle\Git\Slackurbator\Slackurbator\Source\SlackurbatorEditor.Target.cs
